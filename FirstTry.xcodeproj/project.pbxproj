@@ -96,6 +96,8 @@
 				TargetAttributes = {
 					4ABC52531D2F7C90001DC796 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = CGCP9EUAQU;
+						DevelopmentTeamName = "Hsinhua Lin (Personal Team)";
 						ProvisioningStyle = Automatic;
 					};
 				};
